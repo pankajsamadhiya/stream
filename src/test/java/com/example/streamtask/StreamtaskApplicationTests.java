@@ -11,6 +11,7 @@ public class StreamtaskApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Helloo");
 	}
 
 }
